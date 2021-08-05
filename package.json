@@ -1,5 +1,5 @@
 {
-  "name": "common-utils",
+  "name": "@ls/common-utils",
   "version": "1.0.0",
   "description": "Some Common Util Functions",
   "main": "index.js",
@@ -13,6 +13,9 @@
   "author": {
     "name": "Luna Shu",
     "email": "luna_yj@hotmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/LunaYJ/common-utils/issues"
   },
   "license": "ISC",
   "devDependencies": {
