@@ -75,4 +75,4 @@ const utils = {
   setFont,
   getUrlParams,
 };
-module.exports = utils;
+export default utils;
